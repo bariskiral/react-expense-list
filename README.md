@@ -1,1 +1,1 @@
-Just a test project for basic react. Test
+Just a test project for basic react.
